@@ -6,10 +6,10 @@
 - Open CMD / Gitbash / Terminal with url folder
 
 ## Installation
-  composer create-project laravel/laravel Training-System
-  php artisan serve
+---composer create-project laravel/laravel Training-System
+---php artisan serve
   
 
 ## Tutorial
-  With MVC - Model - View - Controller
-  Front-End: Use View rename file .blade.php (example: index.blade.php)
+- With MVC - Model - View - Controller
+- Front-End: Use View rename file .blade.php (example: index.blade.php)
