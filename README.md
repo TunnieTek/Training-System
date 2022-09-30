@@ -42,3 +42,9 @@ Everyone creates individual working branches. Absolutely do not push to Main(mas
 
 - font-family: 'Be Vietnam Pro', sans-serif;
 
+# Member and Collaborators with branch
+1. Cong Tuan Quach [TuanQC]
+2. Dong Kien Nguyen [KienND]
+3. Lam Khanh Nguyen [KhanhNL]
+4. Ngoc Long Pham [LongPN]
+5. Dinh Hieu Hoang [HieuHD]
