@@ -6,11 +6,12 @@
 - Open CMD / Gitbash / Terminal with url folder
 
 ## Installation
-
-  composer create-project laravel/laravel Training-System >  
-  and then cd Training-System >
-  php artisan serve >
-
+[Composer]composer create-project laravel/laravel Training-System 
+  
+  and then cd Training-System 
+  
+  php artisan serve 
+  
 
 ## Tutorial
   With MVC - Model - View - Controller
