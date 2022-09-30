@@ -6,7 +6,7 @@
 - Open CMD / Gitbash / Terminal with url folder
 
 ## Installation
-[Composer] (composer create-project laravel/laravel Training-System) 
+  <link> composer create-project laravel/laravel Training-System </link>
   
   and then cd Training-System 
   
