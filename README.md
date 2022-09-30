@@ -48,3 +48,9 @@ Everyone creates individual working branches. Absolutely do not push to Main(mas
 3. Lam Khanh Nguyen [KhanhNL]
 4. Ngoc Long Pham [LongPN]
 5. Dinh Hieu Hoang [HieuHD]
+    
+## Trello
+    https://trello.com/b/RVNNXDPw/advanced-development
+    
+## Telegrams
+    https://t.me/+1EOOUb3ImiU0ODll
