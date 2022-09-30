@@ -7,11 +7,11 @@
 
 ## Installation
 
-  composer create-project laravel/laravel Training-System
+  [composer create-project laravel/laravel Training-System]
   
-  and then cd Training-System
+  [and then cd Training-System]
   
-  php artisan serve
+  [php artisan serve]
 
 
 ## Tutorial
