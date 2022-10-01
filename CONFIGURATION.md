@@ -6,7 +6,7 @@
 - Open CMD / Gitbash / Terminal with url folder
 
 ## Installation
-  <composer create-project laravel/laravel Training-System>
+  composer create-project laravel/laravel Training-System 
   
   php artisan serve
   
